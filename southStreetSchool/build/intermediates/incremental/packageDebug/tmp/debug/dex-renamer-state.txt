@@ -1,0 +1,4 @@
+#Thu Apr 18 10:58:14 KST 2019
+base.0=D\:\\android_studio_workspace\\SouthStreetSchool_Templete\\southStreetSchool\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

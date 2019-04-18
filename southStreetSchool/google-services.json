@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "148210778573",
+    "firebase_url": "https://storybook-southstreetschool.firebaseio.com",
+    "project_id": "storybook-southstreetschool",
+    "storage_bucket": "storybook-southstreetschool.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148210778573:android:85a36ac0caeeb2f0",
+        "android_client_info": {
+          "package_name": "com.littlefox.storybook.southstreetschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148210778573-so3aenn03v3rpi2ikndhuolb0831qnpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADyEa9MtO2odLHZw1koTE_5VbCMTPBHls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148210778573-so3aenn03v3rpi2ikndhuolb0831qnpk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
